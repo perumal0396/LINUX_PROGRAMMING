@@ -1,0 +1,14 @@
+    
+     /***********************************#
+     #  Author      : PERUMAL.R          #         
+     #  Date        : 23-jan-2019        #
+     #  Filename    : shm_posix          #
+     #  Description : shm_posix          #
+     #***********************************/
+
+
+ 
+DESCRIPTION:
+             posix standard is portable to all operating systems it possible to shared memory to all operating system
+
+	              by using posix shared memory used to virtual address to shared memory  using shm_open(),shm_unlink(),mmap()
