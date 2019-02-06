@@ -1,0 +1,13 @@
+  /***************************************/
+  /* Author      : PERUMAL.R             */
+  /* Date        : 05-FEB-2019           */
+  /* Filename    : thread.txt            */
+  /* Description : explain create thread */
+  /***************************************/
+
+
+
+DESCRIPTION 
+          
+            Thread is create for reduce the working  of the processor and than how it's is working thread in that processor
+           
