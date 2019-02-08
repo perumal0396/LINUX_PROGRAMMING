@@ -1,0 +1,14 @@
+
+   /***************************************/
+   /* Author      : PERUMAL.R             */
+   /* Date        : 07-FEB-2019           */
+   /* Filename    : mutex.txt             */
+   /* Description : explain mutex thread  */ 
+   /***************************************/
+
+
+  DESCRIPTION
+              
+             A mutex has two states:locked and unlocked
+
+	     pthread and mutex  first memory they locked after only using mutex second memory unlocked processor of pthread
